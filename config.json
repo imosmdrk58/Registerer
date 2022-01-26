@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["451474544255959071"],
+        "ACTIVITY_TEXT": "Welcome To Rexcelia",
+        "GUILD_ID": "815423713180778526",
+        "VOICE_CHANNEL": "815693231081652256",
+        "MIN_STAFF_ROLE": "815692804214751243"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome-voice.mp3",
+        "STAFF": "default_files/staff-voice.mp3"
+    },
+    "TOKEN": "ODE0NDI1NDYzMDA2MTY3MDgw.YDdq0Q.qeN6wHzHydeRHcv8w7A3Ozg5Dew"
+}
